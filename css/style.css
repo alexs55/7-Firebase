@@ -1,0 +1,20 @@
+body{
+  font-family: 'Righteous', cursive;
+  font-weight: bold;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/094/691/original/abstract-pattern-background-vector.jpg");
+ 
+}
+
+.jumbotron{
+  background-image: url("https://images.pexels.com/photos/1292998/pexels-photo-1292998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  color: white;
+
+}
+
+#colore{
+  background-color: orange;
+}
+
+#title1{
+  background-color: dodgerblue;
+}
